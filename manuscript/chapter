@@ -2,14 +2,10 @@
 
 
 
-![/./ in path](./earth4.gif)
+![/./ in path and double ext referenced w/ single](./earth5.gif)
 
-![/./ in path](./frog4.svg)
+![/./ in path and double ext referenced w/ single](./frog5.svg)
 
-![/././ in path](././earth4.gif)
+![/./ in path and double ext referenced w/ double](./earth6.gif)
 
-![/././ in path](././frog4.svg)
-
-![/./ in path](resources/./earth4.gif)
-
-![/./ in path](resources/./frog4.svg)
+![/./ in path and double ext referenced w/ double](./frog6.svg)
