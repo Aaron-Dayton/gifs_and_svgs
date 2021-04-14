@@ -1,6 +1,35 @@
 # GIFs and SVGs
 
-![normal](earth.gif)
 
-![normal](frog.svg)
 
+![foo/](foo/earth.gif)
+
+![foo/](foo/frog.svg)
+
+![resources/foo/](resources/foo/earth.gif)
+
+![resources/foo/](resources/foo/frog.svg)
+
+![resources/./foo/](resources/./foo/earth.gif)
+
+![resources/./foo/](resources/./foo/frog.svg)
+
+![resources/foo./](resources/foo./earth.gif)
+
+![resources/foo./](resources/foo./frog.svg)
+
+![resources/.foo/](resources/.foo/earth.gif)
+
+![resources/.foo/](resources/.foo/frog.svg)
+
+![resources/foo/bar/](resources/foo/bar/earth.gif)
+
+![resources/foo/bar/](resources/foo/bar/frog.svg)
+
+![resources/foo/bar/baz/](resources/foo/bar/baz/earth.gif)
+
+![resources/foo/bar/baz/](resources/foo/bar/baz/frog.svg)
+
+![resources/foo/bar/baz/ and double ext referenced w/ single](resources/foo/bar/baz/earth2.gif)
+
+![resources/foo/bar/baz/ and double ext referenced w/ single](resources/foo/bar/baz/frog2.svg)
