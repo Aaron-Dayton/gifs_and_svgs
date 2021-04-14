@@ -48,10 +48,6 @@
 
 ![resources/foo./](resources/foo./frog.svg)
 
-![resources/.foo/](resources/.foo/earth.gif)
-
-![resources/.foo/](resources/.foo/frog.svg)
-
 ![resources/foo/bar/](resources/foo/bar/earth.gif)
 
 ![resources/foo/bar/](resources/foo/bar/frog.svg)
