@@ -11,3 +11,15 @@
 ![double ext referenced w/ single](earth3.gif)
 
 ![double ext referenced w/ single](frog3.svg)
+
+![/./ in path](./earth4.gif)
+
+![/./ in path](./frog4.svg)
+
+![/././ in path](././earth4.gif)
+
+![/././ in path](././frog4.svg)
+
+![/./ in path](resources/./earth4.gif)
+
+![/./ in path](resources/./frog4.svg)
