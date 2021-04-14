@@ -12,17 +12,7 @@
 
 ![double ext referenced w/ single](frog3.svg)
 
-![/./ in path](./earth4.gif)
 
-![/./ in path](./frog4.svg)
-
-![/././ in path](././earth4.gif)
-
-![/././ in path](././frog4.svg)
-
-![/./ in path](resources/./earth4.gif)
-
-![/./ in path](resources/./frog4.svg)
 
 ![/./ in path and double ext referenced w/ single](./earth5.gif)
 
@@ -31,35 +21,3 @@
 ![/./ in path and double ext referenced w/ double](./earth6.gif)
 
 ![/./ in path and double ext referenced w/ double](./frog6.svg)
-
-![foo/](foo/earth.gif)
-
-![foo/](foo/frog.svg)
-
-![resources/foo/](resources/foo/earth.gif)
-
-![resources/foo/](resources/foo/frog.svg)
-
-![resources/./foo/](resources/./foo/earth.gif)
-
-![resources/./foo/](resources/./foo/frog.svg)
-
-![resources/foo./](resources/foo./earth.gif)
-
-![resources/foo./](resources/foo./frog.svg)
-
-![resources/.foo/](resources/.foo/earth.gif)
-
-![resources/.foo/](resources/.foo/frog.svg)
-
-![resources/foo/bar/](resources/foo/bar/earth.gif)
-
-![resources/foo/bar/](resources/foo/bar/frog.svg)
-
-![resources/foo/bar/baz/](resources/foo/bar/baz/earth.gif)
-
-![resources/foo/bar/baz/](resources/foo/bar/baz/frog.svg)
-
-![resources/foo/bar/baz/ and double ext referenced w/ single](resources/foo/bar/baz/earth2.gif)
-
-![resources/foo/bar/baz/ and double ext referenced w/ single](resources/foo/bar/baz/frog2.svg)
