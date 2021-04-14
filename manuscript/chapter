@@ -1,25 +1,32 @@
 # GIFs and SVGs
 
-![normal](earth.gif)
 
-![normal](frog.svg)
 
-![double ext referenced w/ double](earth2.gif.gif)
 
-![double ext referenced w/ double](frog2.svg.svg)
+![foo/](foo/earth.gif)
 
-![double ext referenced w/ single](earth3.gif)
+![foo/](foo/frog.svg)
 
-![double ext referenced w/ single](frog3.svg)
+![resources/foo/](resources/foo/earth.gif)
 
-![/./ in path](./earth4.gif)
+![resources/foo/](resources/foo/frog.svg)
 
-![/./ in path](./frog4.svg)
+![resources/./foo/](resources/./foo/earth.gif)
 
-![/././ in path](././earth4.gif)
+![resources/./foo/](resources/./foo/frog.svg)
 
-![/././ in path](././frog4.svg)
+![resources/foo./](resources/foo./earth.gif)
 
-![/./ in path](resources/./earth4.gif)
+![resources/foo./](resources/foo./frog.svg)
 
-![/./ in path](resources/./frog4.svg)
+![resources/.foo/](resources/.foo/earth.gif)
+
+![resources/.foo/](resources/.foo/frog.svg)
+
+![resources/foo/bar/](resources/foo/bar/earth.gif)
+
+![resources/foo/bar/](resources/foo/bar/frog.svg)
+
+![resources/foo/bar/baz/](resources/foo/bar/baz/earth.gif)
+
+![resources/foo/bar/baz/](resources/foo/bar/baz/frog.svg)
